@@ -31,3 +31,5 @@ The sequence may indicate password guessing activity followed by reconnaissance 
 
 ## Screenshots
 Stored in the screenshots folder.
+(screenshot/test.txt)
+
