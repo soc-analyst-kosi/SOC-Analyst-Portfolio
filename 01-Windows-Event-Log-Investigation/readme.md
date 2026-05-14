@@ -31,5 +31,4 @@ The sequence may indicate password guessing activity followed by reconnaissance 
 
 ## Screenshots
 Stored in the screenshots folder.
-(screenshot/4625-failed-login-1.png)
 
