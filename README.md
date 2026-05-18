@@ -75,3 +75,8 @@ Performed proactive threat hunting to identify suspicious command execution and 
 - Threat Hunting
 - Behavioral Analysis
 - Reconnaissance Detection
+
+- ## Connect With Me
+
+- GitHub: https://github.com/soc-analyst-kosi
+- LinkedIn: https://www.linkedin.com/in/kosisochukwu-okechukwu-2b1147361
