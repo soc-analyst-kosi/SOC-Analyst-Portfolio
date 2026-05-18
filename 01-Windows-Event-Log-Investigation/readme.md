@@ -29,11 +29,6 @@ The sequence may indicate password guessing activity followed by reconnaissance 
 
 ---
 
-## Screenshots
-### Artifact Analysis: Process Creation (Event ID 4688)
-To baseline normal activity on the host, I investigated successful process creations. 
-
-![Event ID 4688 Process Execution](screenshots/4688_process_execution.png)
-
-* **Analysis:** The log shows `MpCmdRun.exe` (Windows Defender) executing an idle task (`WdVerification`). This is a standard system baseline execution and does not indicate malicious persistence or privilege escalation.
+## Screenshots:
+see in screenshots folder
 
